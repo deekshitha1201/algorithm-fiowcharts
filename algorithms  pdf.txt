@@ -1,0 +1,116 @@
+1.LIBRARY MANAGEMENT
+
+start
+enter the library
+choosing a book
+if book is there in library
+approval of management
+stamp on the book
+enter book number with signature
+else book is not there in library
+stop
+ of management
+2.ATM TRANSACTION
+
+strat
+insert card
+check if card is valid or not
+if card is invalid return the card
+enter the language
+enter the pin
+if pin is invalid
+enter the pin again
+pin is valid
+atm transaction
+stop
+
+3.RESTURANT MANAGEMENT SYSTEM
+
+a) order management system
+
+start 
+if login is done
+search menu
+select food item
+add item in to cart 
+place order
+send notification through sms 
+else new registration
+stop
+
+b)kitchen management system
+
+start
+sehedule management:the algorithm can optimize kitchen staffing schedules based on factors such as demand menu items and kitchen staff availability
+inventory tracking: the algorithm can track the ingredient usage in real time so kitchen managers can bettr manage their inventory levels reduce waste and improve cost efficiency
+order processing: the algorithm provides a streamlined process for order  processing ensuring that meals are prepared accurately and in a timely fashion
+recipr management:the algorithm can manage recipes including ingredient  lists quqntities and oreparation instruction to ensure consistency and quality
+data analysis: the algorithm can analyze data on kitchen performance including order volume preparation times and ingredient usage to identify areas of improvement and increase efficiency
+stop
+
+
+c)employee management algorithm
+
+
+start
+login to the employee management system
+check user level and permissions
+if check permission 
+print manage employee'manage attendance manage salary manage leaves
+logout from the system
+stop
+
+
+4.DRAW FLOWCHART ONLINE SHOPPING
+
+
+a)order processing flowchart
+
+start
+recieve order through mail
+copy and paste mail data into database
+if shipping is involved
+send mail to confirm shipping
+item get package
+stop
+
+b)return and exchanges flowchart
+
+start
+recieve the product
+check the product
+if product is damage
+the product must be return back or exchange
+stop
+
+c)payment processing flowchart
+
+
+start
+select item
+book the item i will make payment
+enter the details
+make payment
+confirmation
+stop
+
+
+5.DRAW FLOWCHART ON ATM TRANSACTION
+
+a)cash withdraw flowchart
+
+start
+customer make withdraw request
+check customer balance
+if customer balance is valid
+give cash to customer
+if customer balance is invalid 
+reject request
+stop
+
+
+
+
+ 
+
+ 
